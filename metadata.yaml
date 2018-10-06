@@ -20,5 +20,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Punch, or The London Charivari, Volume 107, November 10th, 1894
 url: http://www.gutenberg.org/ebooks/46792
